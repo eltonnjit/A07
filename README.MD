@@ -19,10 +19,7 @@
 	</header>
 	<nav>
     	<ul>
-    		<li><a class="current" href="index.html">Home</a></li>
-    		<li><a href="speakers.html">Speakers</a></li>
-    		<li><a href="luncheons.html">Luncheons</a></li>
-    		<li><a href="tickets.html">Tickets</a></li>
+    		
     	</ul>
     </nav>
 	<section>
