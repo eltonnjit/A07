@@ -18,9 +18,9 @@
 		</hgroup>
 	</header>
 	<nav>
-    	<ul>
+   
     		
-    	</ul>
+    
     </nav>
 	<section>
 		<h1>Our Mission</h1>
