@@ -19,13 +19,23 @@
 	</header>
 	<nav>
     	<ul>
-    		
+    		<li><a class="current" href="index.html">Home</a></li>
+    		<li><a href="speakers.html">Speakers</a></li>
+    		<li><a href="luncheons.html">Luncheons</a></li>
+    		<li><a href="tickets.html">Tickets</a></li>
+    	</ul>
     </nav>
 	<section>
 		<h1>Our Mission</h1>
 		<p>San Joaquin Valley Town Hall is a non-profit organization that is run by an all-volunteer board of directors. Our mission is to bring nationally and internationally renowned, thought-provoking speakers who inform, educate, and entertain our audience! As one or our members told us:</p>
 		<blockquote>&ldquo;Each year I give a ticket package to each of our family members. I think of it as the gift of knowledge...and that is priceless.&rdquo;</blockquote>
-		
+		<h1>Speaker of the Month</h1>
+		<article>
+			<h1>Fossil Threads in the Web of Life</h1>
+			<img src="images/sampson_dinosaur.jpg" alt="Scott Sampson with Dinosaur">
+			<h2>February 15, 2012<br>Scott Sampson</h2>
+			<p>What's 75 million years old and brand spanking new? A teenage Utahceratops! Come to the Saroyan, armed with your best dinosaur roar, when Scott Sampson, Research Curator at the Utah Museum of Natural History, steps to the podium. Sampson's research has focused on the ecology and evolution of late Cretaceous dinosaurs and he has conducted fieldwork in a number of countries in Africa.</p>
+			<p><a href="speakers/sampson.html">Read more.</a>&nbsp;<b>Or meet us there!</b></p>
 		</article>
 		<h1>Our Ticket Packages</h1>
 		<ul>
@@ -46,7 +56,7 @@
 		<img src="images/sampson75.jpg" alt="Scott Sampson">
 	</aside>
 	<footer>
-		<p>&copy; 2022, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
+		<p>&copy; 2012, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
 	</footer>
 </body>
 </html>
