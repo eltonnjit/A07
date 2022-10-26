@@ -26,4 +26,9 @@
             <br> 
             <img src="images/brancaccio75.jpg" height="100" width="100" alt="David Brancaccio October Speaker">
             <br>
-          
+          <p>
+	  &copy; 2022, Elton Haskaj.
+	  </p>
+	  </footer>
+	  </body>
+	  </html>
