@@ -24,7 +24,7 @@
         <h3>
           October <br> <a href="speakers/brancaccio.html"> David Brancaccio </a>
             <br> 
-            <img src="images/brancaccio75.jpeg" height="100" width="100" alt="David Brancaccio October Speaker">
+            <img src="images/brancaccio75.jpg" height="100" width="100" alt="David Brancaccio October Speaker">
             <br>
           
         
